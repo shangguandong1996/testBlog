@@ -44,4 +44,4 @@ vignettes/*.pdf
 .Ruserdata
 public
 static/figures
-blogdown
+/blogdown
